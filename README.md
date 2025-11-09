@@ -1,17 +1,17 @@
 <div align="center">
-<img src="https://lanyard.kyrie25.dev/api/708710253726007326?hideStatus=true&hideClan=false&forceGradient=false&showDisplayName=false&animatedDecoration=true&showBanner=animated&imgStyle=circle&theme=dark&idleMessage=Internet%20Money%20Bitch!%F0%9F%92%B8%F0%9F%A4%91&gradient=D91A1A-212224&imgBorderRadius=20px&bg=000000&bannerFilter=brightness(0.9)blur(2px)&clanbg=00f2ff&borderRadius=20px&waveColor=ffffff" width="45%" align="right" />
+<img src="https://lanyard.kyrie25.dev/api/708710253726007326?hideStatus=true&hideClan=false&forceGradient=false&showDisplayName=false&animatedDecoration=true&showBanner=animated&imgStyle=circle&theme=dark&idleMessage=Internet%20Money%20Bitch!%F0%9F%92%B8%F0%9F%A4%91&gradient=D91A1A-212224&imgBorderRadius=20px&bg=000000&bannerFilter=brightness(0.9)blur(2px)&clanbg=00f2ff&borderRadius=20px&waveColor=ffffff" width="45%" align="right"/>
 
 <div align="left">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=Hello!%F0%9F%91%8B" alt="Typing SVG"/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=I+am+IhvCutegirl" alt="Typing SVG"/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=a.k.a+Abishek+Rao+M+%3AD" alt="Typing SVG"/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=I+am+a+Zealous+coder%2C" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=Hello!%F0%9F%91%8B" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=I+am+IhvCutegirl" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=a.k.a+Abishek+Rao+M+%3AD" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=I+am+a+Zealous+coder%2C" alt="Typing SVG"/>
     </a>
 </div>
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=a+synthesizer+and+a+trailblazer+%3AD" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F70000&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=a+synthesizer+and+a+trailblazer+%3AD" alt="Typing SVG"/>
   </a>
 </div>
 <br clear="both" />
@@ -66,4 +66,22 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IhvCutegirl&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
+</div>
+
+<div align="center">
+    
+  ### Contact Me :)
+  
+  <a href="https://www.instagram.com/abishek_rao_m">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" hspace="3"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abishekraom@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" hspace="3"/>
+  </a>
+  <a href="https://discord.com/users/708710253726007326">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" hspace="3"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abishek-rao-m-979a38326/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" hspace="3"/>
+  </a>
 </div>
